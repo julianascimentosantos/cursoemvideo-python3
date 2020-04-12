@@ -1,2 +1,2 @@
 # cursoemvideo-python
- Desafios curso de Python do Curso em Vídeo
+ Desafios do curso de Python 3 do Curso em Vídeo.
